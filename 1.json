@@ -1,0 +1,309 @@
+{
+  "author": "杰同学🐾",
+  "sites": [
+    {
+      "key": "jie_cainisi",
+      "name": "JIE影视4K·菜妮丝超清",
+      "type": 3,
+      "api": "https://tvbox.cainisi.cf/api/v1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_yuanhsing",
+      "name": "JIE影视4K·远星影视",
+      "type": 3,
+      "api": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_aishang",
+      "name": "JIE影视4K·爱上影视",
+      "type": 3,
+      "api": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_feimao",
+      "name": "JIE影视4K·肥猫影院",
+      "type": 3,
+      "api": "http://api.肥猫.love/v1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_yoursmile",
+      "name": "JIE影视4K·微笑4K",
+      "type": 3,
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_gaotian",
+      "name": "JIE影视4K·高天流云",
+      "type": 3,
+      "api": "https://gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_buliangshuai",
+      "name": "JIE影视4K·不良帅",
+      "type": 3,
+      "api": "https://notabug.org/qizhen15800/My9394/raw/master/%E4%B8%8D%E8%89%AF%E5%B8%85.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_moyu",
+      "name": "JIE影视4K·摸鱼4K",
+      "type": 3,
+      "api": "http://小鱼干.摸鱼儿.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_bahe",
+      "name": "JIE影视4K·宝盒4K",
+      "type": 3,
+      "api": "http://xhww.fun:6054/宝盒4k/1.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_kkls",
+      "name": "JIE影视4K·快乐影视",
+      "type": 3,
+      "api": "https://kkls.fatiao.pro/ts.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_fantaiying",
+      "name": "JIE影视4K·饭太硬",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/TV/main/release/tv.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_wanou",
+      "name": "JIE影视4K·玩偶",
+      "type": 3,
+      "api": "http://itvbox.cc/云星日记",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_qiaoji",
+      "name": "JIE影视4K·巧计",
+      "type": 3,
+      "api": "http://cdn.qiaoji8.com/tvbox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_aiwangzhe",
+      "name": "JIE影视4K·爱网者",
+      "type": 3,
+      "api": "http://pan.iwzhe.com/iwysjk.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_duohe1",
+      "name": "JIE影视4K·拾光多仓",
+      "type": 3,
+      "api": "https://xmbjm.github.io/ck.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_duohe2",
+      "name": "JIE影视4K·通用多仓",
+      "type": 3,
+      "api": "https://4708.kstore.space/ck.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_duohe3",
+      "name": "JIE影视4K·金鹰多仓",
+      "type": 3,
+      "api": "http://530.my3v.work/f.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_duohe4",
+      "name": "JIE影视4K·蓝色多仓",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/4684/Xboxb.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_duohe5",
+      "name": "JIE影视4K·凯弟多仓",
+      "type": 3,
+      "api": "https://jihulab.com/jyqhkd1/jk/-/raw/main/8.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_duohe6",
+      "name": "JIE影视4K·酷系多仓",
+      "type": 3,
+      "api": "https://bitbucket.org/xduo/cool/raw/main/line.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_4kmiao",
+      "name": "JIE影视4K·4K秒播",
+      "type": 3,
+      "api": "http://154.12.37.204:8089/hebing",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_taiji",
+      "name": "JIE影视4K·太极4K",
+      "type": 3,
+      "api": "https://gitee.com/yunfei-film-and-television_admin/taiji/raw/taiji/4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_tinghao",
+      "name": "JIE影视4K·挺好GYCK",
+      "type": 3,
+      "api": "http://zthai.vip/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_youdu",
+      "name": "JIE影视4K·毒盒多仓",
+      "type": 3,
+      "api": "https://tv.youdu.fan:666",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_yunshu",
+      "name": "JIE影视4K·运输车",
+      "type": 3,
+      "api": "https://weixine.net/api.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_wuai",
+      "name": "JIE影视4K·吾爱多仓",
+      "type": 3,
+      "api": "http://52bsj.vip:98/wuaihouse",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_yingyongduo",
+      "name": "JIE影视4K·应用多多",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/apps/-/raw/main/duo.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_liugc",
+      "name": "JIE影视4K·流云多仓",
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/dm.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_keshi",
+      "name": "JIE影视4K·可视仓库",
+      "type": 3,
+      "api": "http://itvbox.cc/可视仓库",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jie_tianwei",
+      "name": "JIE影视4K·天微多仓",
+      "type": 3,
+      "api": "http://39.101.135.137:8686",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "JIE解析·极速超清",
+      "url": "https://jx.10086.biz/player?url="
+    },
+    {
+      "name": "JIE解析·蓝光专线",
+      "url": "https://vip.laobai.icu/player?url="
+    },
+    {
+      "name": "JIE解析·稳定备用",
+      "url": "https://jx.10086.plus/player?url="
+    },
+    {
+      "name": "JIE解析·全网通",
+      "url": "https://jx.172366.top/player/?url="
+    },
+    {
+      "name": "JIE解析·万能解析",
+      "url": "https://www.1717ku.com/?url="
+    },
+    {
+      "name": "JIE解析·4K专用",
+      "url": "https://jx.4kzy.com/player?url="
+    },
+    {
+      "name": "JIE解析·秒播线路",
+      "url": "https://jx.miaobo.com/player?url="
+    },
+    {
+      "name": "JIE解析·海外专线",
+      "url": "https://jx.haiwai.com/player?url="
+    }
+  ]
+}
